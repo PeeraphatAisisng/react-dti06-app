@@ -30,18 +30,16 @@ export default function MyPageB() {
         </nav>
       </div>
 
-      {/* main content: centered vertically */}
+      {/* centered vertically */}
       <main className='flex-1 w-full flex items-center justify-center px-6'>
         <div className='max-w-[1200px] w-full grid grid-cols-1 md:grid-cols-2 gap-8 items-center'>
           {/* left: text block */}
           <div className='order-2 md:order-1'>
-            {/* START: Added MY CAPABILITIES / MY EXPERIENCE here */}
-            
-            {/* END: Added MY CAPABILITIES / MY EXPERIENCE here */}
+
 
             <h2 className='text-5xl md:text-6xl font-extrabold mb-6' style={{ fontFamily: 'Monomaniac One, system-ui', letterSpacing: '-0.5px' }}>Sombat Jaideemak</h2>
             <p className='text-sm md:text-base text-gray-400 mb-8 max-w-lg leading-relaxed text-gray-400' style={{ opacity: 0.9 }}>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minima autem adipisci earum rem odio libero aut labore laborum odit maxime quidem facere deserunt, explicabo obcaecati blanditiis nulla, rerum eveniet inventore.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus sint enim itaque nostrum porro magni perspiciatis architecto fugiat quas veniam.
             </p>
 
             <button

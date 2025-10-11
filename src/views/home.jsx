@@ -58,7 +58,7 @@ export default function Home() {
       {/* ส่วนล่าง */}
       <div className='flex flex-col justify-center items-center text-lg'>
         <p>(รูปและเนื้อหาทั้งหมดใช้เพื่อการศึกษาเท่านั้น)</p>
-        <p>Created by bankneedtolseep</p>
+        <p>Created by Phat</p>
         <p>Copyright ©2025 Wow Wow Wow</p>
       </div>
     </div>

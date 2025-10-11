@@ -10,7 +10,7 @@ export default function MyPageC() {
       <div className="w-full bg-[#0b0833]">
         <div className="max-w-[1200px] mx-auto px-6">
           <div className="flex items-center justify-between py-3">
-            <div className="text-2xl font-bold text-white">bankneedtosleep</div>
+            <div className="text-2xl font-bold text-white">Phat</div>
             <nav className="flex gap-6 text-sm font-bold text-white">
               <a href="#work">Work</a>
               <a href="#about">About</a>
@@ -28,7 +28,7 @@ export default function MyPageC() {
             <h1 className="text-5xl md:text-6xl font-extrabold mb-4">
               HI, I AM
               <br />
-              bankneedtosleep
+              PHAT
             </h1>
             <p className="text-gray-300 max-w-lg mb-6">
               นักพัฒนาเว็บไซต์ฝั่งฟรอนท์เอนด์จากประเทศไทย
